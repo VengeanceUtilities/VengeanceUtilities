@@ -12,8 +12,6 @@
 
 <a href="https://github.com/VengeanceUtilities/VengeancePlayer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vengeanceplayer-dark.svg"><img src="assets/project-vengeanceplayer-light.svg" width="49%" alt="VengeancePlayer"></picture></a>&nbsp;<a href="https://github.com/VengeanceUtilities/UpperEchelons-Bio-siteV2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-upperechelons-bio-sitev2-dark.svg"><img src="assets/project-upperechelons-bio-sitev2-light.svg" width="49%" alt="UpperEchelons-Bio-siteV2"></picture></a>
 
-<a href="https://github.com/VengeanceUtilities/VengeanceDesktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vengeancedesktop-dark.svg"><img src="assets/project-vengeancedesktop-light.svg" width="49%" alt="VengeanceDesktop"></picture></a>&nbsp;<a href="https://github.com/VengeanceUtilities/VengeanceUtilities"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vengeanceutilities-dark.svg"><img src="assets/project-vengeanceutilities-light.svg" width="49%" alt="VengeanceUtilities"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
