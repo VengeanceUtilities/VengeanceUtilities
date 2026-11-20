@@ -1,46 +1,25 @@
-## 💫 About Me:
+<div align="center">
 
-> **VengeanceUtilities**
->
-> Building native Android apps, low-level Windows system utilities, and custom audio pipelines. Focused on clean UI/UX, refractive glassmorphism, and squeezing every bit of performance out of hardware and software.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m UpperEchelon"></picture>
 
-**Main Portfolio:** [https://vengeanceutilities.de/](https://vengeanceutilities.de/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="24.367%" alt=""></picture><a href="vengeanceutilities.de"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="15.873%" alt="html5"></picture></a><a href="https://discord.com/GCU3SU5fKH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://www.instagram.com/UpperEchelon.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="18.836%" alt="instagram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="24.367%" alt=""></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-## 🌐 Socials:
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/godlyechelon)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GCU3SU5fKH)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VengeanceUtilities)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
----
+<a href="https://github.com/VengeanceUtilities/VengeancePlayer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vengeanceplayer-dark.svg"><img src="assets/project-vengeanceplayer-light.svg" width="49%" alt="VengeancePlayer"></picture></a>&nbsp;<a href="https://github.com/VengeanceUtilities/UpperEchelons-Bio-siteV2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-upperechelons-bio-sitev2-dark.svg"><img src="assets/project-upperechelons-bio-sitev2-light.svg" width="49%" alt="UpperEchelons-Bio-siteV2"></picture></a>
 
-## 💻 Tech Stack:
+<a href="https://github.com/VengeanceUtilities/VengeanceDesktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vengeancedesktop-dark.svg"><img src="assets/project-vengeancedesktop-light.svg" width="49%" alt="VengeanceDesktop"></picture></a>&nbsp;<a href="https://github.com/VengeanceUtilities/VengeanceUtilities"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vengeanceutilities-dark.svg"><img src="assets/project-vengeanceutilities-light.svg" width="49%" alt="VengeanceUtilities"></picture></a>
 
-**Languages & Frameworks**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-**Platforms, Graphics & Backend**
+<a href="vengeanceutilities.de"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/VengeanceUtilities"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![DirectX / D3D11](https://img.shields.io/badge/Direct3D%2011-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![OpenGL / Shaders](https://img.shields.io/badge/AGSL%20%2F%20Shaders-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite / Room](https://img.shields.io/badge/Room%20%2F%20SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<a href="https://metawka.github.io/expressive-profile/?from=VengeanceUtilities"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-**Tools & Environment**
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+</div>

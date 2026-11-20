@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "login": "VengeanceUtilities",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "UpperEchelon",
+    "subtitle": "Im a 21 Year old C++/C# Web and App Developer for Windows, Linux, MacOS and Android!",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Narnia"
+      },
+      {
+        "icon": "star",
+        "label": "C++"
+      },
+      {
+        "icon": "code",
+        "label": "Kotlin"
+      },
+      {
+        "icon": "star",
+        "label": "JavaScript"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Coding since i was 15"
+      },
+      {
+        "icon": "palette",
+        "label": "Loves Glass themed things"
+      },
+      {
+        "icon": "favorite",
+        "label": "Overweight As Expected"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "HTML5"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:airtransat",
+            "label": "Visual Studio Code"
+          },
+          {
+            "icon": "brand:androidstudio",
+            "label": "Android Studio"
+          },
+          {
+            "icon": "brand:headphonezone",
+            "label": "IDA Pro"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {
+      "pixel-garden": {
+        "text": ""
+      },
+      "VengeanceDesktop": {
+        "text": "Ad-Free Hybrid Music Player for Windows combining Basically ever Streaming Service to in One App"
+      },
+      "UpperEchelons-Bio-siteV2": {
+        "text": "Custom Built Website to showcase music my HTML Skills and  show off some Beautiful Designs"
+      },
+      "VengeanceUtilities": {
+        "text": "Redirect Link for VengeanceDesktop to automatically download Stuff from."
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:html5",
+        "url": "vengeanceutilities.de"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/GCU3SU5fKH"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/UpperEchelon.dev"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "vengeanceutilities.de",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/VengeanceUtilities",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
